@@ -1,1 +1,0 @@
-# aws-automated-log-archival-monitoring
